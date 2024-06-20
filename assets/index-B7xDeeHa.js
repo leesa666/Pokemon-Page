@@ -1,4 +1,4 @@
-import{S as Vi,m as Wi,R as ke,n as Xi,r as v,o as rn,p as Gi,j as pr}from"./index-BUIZboeO.js";const Pl=()=>{const e=Vi.get("basic_data");return{getShape:u=>e[7].find(f=>f.id==u),getAbility:u=>e[2].find(f=>f.id==u),getRegion:u=>e[1].find(f=>f.id==u),getGeneration:u=>e[8].find(f=>f.id==u),getEgg:u=>e[5].find(f=>f.id==u),getColor:u=>e[4].find(f=>f.id==u),getCategory:u=>e[3].find(f=>f.id==u),getGrowth:u=>e[9].find(f=>f.id==u),getType:u=>e[0].find(f=>f.id==u)}};var no={exports:{}};/*!
+import{S as Vi,m as Wi,R as ke,n as Xi,r as v,o as rn,p as Gi,j as pr}from"./index-nUTRS6X6.js";const Pl=()=>{const e=Vi.get("basic_data");return{getShape:u=>e[7].find(f=>f.id==u),getAbility:u=>e[2].find(f=>f.id==u),getRegion:u=>e[1].find(f=>f.id==u),getGeneration:u=>e[8].find(f=>f.id==u),getEgg:u=>e[5].find(f=>f.id==u),getColor:u=>e[4].find(f=>f.id==u),getCategory:u=>e[3].find(f=>f.id==u),getGrowth:u=>e[9].find(f=>f.id==u),getType:u=>e[0].find(f=>f.id==u)}};var no={exports:{}};/*!
 	Copyright (c) 2018 Jed Watson.
 	Licensed under the MIT License (MIT), see
 	http://jedwatson.github.io/classnames
